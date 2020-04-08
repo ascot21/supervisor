@@ -5,6 +5,7 @@ driver:
 chef_versions:
 - 11
 - 12
+- 15
 
 platforms:
 - name: ubuntu-12.04
